@@ -1,0 +1,16 @@
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\bin\x64\Debug\PadariaCarmel.exe.config
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\bin\x64\Debug\PadariaCarmel.exe
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\bin\x64\Debug\PadariaCarmel.pdb
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.frmLogin.resources
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.frmSplash.resources
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.Properties.Resources.resources
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.csproj.GenerateResource.cache
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.csproj.CoreCompileInputs.cache
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.exe
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.pdb
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.frmCalcula.resources
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.csproj.AssemblyReference.cache
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.frmMenuPrincipal.resources
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.frmSobre.resources
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.frmFuncionarios.resources
+C:\Users\mathias.ssantos\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\x64\Debug\PadariaCarmel.frmPesquisarFuncionarios.resources
